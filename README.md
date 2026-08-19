@@ -1,0 +1,1 @@
+# product-of-square-of-numbers
